@@ -1,0 +1,6 @@
+[book]
+authors = ["xzi"]
+language = "en"
+multilingual = false
+src = "src"
+title = "A Guide to Cave Story"
