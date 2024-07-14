@@ -1,7 +1,9 @@
-# Chapter 1
+# A Guide to Cave Story
 
 ```admonish warning
-This guide is work in progress and contains spoilers! Please proceed with caution.
+This guide is work in progress and contains spoilers! Please proceed with caution.  
+
+Additionally, this guide is not compatiable with Cave Story 3D.
 ```
 
 Cave Story, or Doukutsu Monogatari, considered by many to be one of the greatest indie games ever made. It was made by a single person, Daisuke "Pixel" Amaya, as a passion project. Cave Story has been out for almost 20 years at the time of writing this, but has still managed to stand the test of time as an incredibly fun and rewarding game.  

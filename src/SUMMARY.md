@@ -1,4 +1,4 @@
 # Summary
 
 - [Introduction](./introduction.md)
-- [Obtaining The Game]()
+- [Which Version Should I Play?](./whichver.md)
