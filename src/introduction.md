@@ -6,6 +6,8 @@ This guide is work in progress and contains spoilers! Please proceed with cautio
 Additionally, this guide is not compatiable with Cave Story 3D.
 ```
 
+![Lilith's Guide. Made with <3 by a dedicated fan.](./assets/liliths_guide.jpg)
+
 Cave Story, or Doukutsu Monogatari, considered by many to be one of the greatest indie games ever made. It was made by a single person, Daisuke "Pixel" Amaya, as a passion project. Cave Story has been out for almost 20 years at the time of writing this, but has still managed to stand the test of time as an incredibly fun and rewarding game.  
 
 That being said, despite the game's linear nature, it can sometimes be a little bit obtuse in how to get things like better weapons or its best ending. This guide hopes to explain how to get all the weapons, endings, and extra items within Cave Story. That is where this guide comes in.  
