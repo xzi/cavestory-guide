@@ -3,6 +3,8 @@
 [Introduction](./introduction.md)
 [Which Version Should I Play?](./whichver.md)
 
+---
+
 # The First Half
 
 - [First Cave]()
@@ -32,5 +34,7 @@
 # Best Ending
 
 - [Hell]()
+
+---
 
 [To-do List](./todo.md)
