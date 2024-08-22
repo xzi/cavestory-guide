@@ -5,34 +5,19 @@
 
 ---
 
-# The First Half
-
 - [First Cave](./first_cave.md)
 - [Mimiga Village]()
 - [Egg Corridor]()
 - [Bushlands/Grasstown]()
 - [Sandzone]()
 - [Labyrinth]()
-- [Ending Split]()
-- [Labyrinth Part 2]()
-
-# Bad Ending
-
-- [Waterway]()
-- [Egg Corridor?]()
-
-# Good/Best Ending
-
 - [Waterway]()
 - [Egg Corridor?]()
 - [Outer Wall]()
 - [Plantation]()
-- [Last Cave (Good Ending)]()
-- [Last Cave (Best Ending)]()
+- [Last Cave]()
+- [Last Cave (Hidden)]()
 - [Throne Room/The King's Table/Black Space]()
-
-# Best Ending
-
 - [Hell]()
 
 ---
