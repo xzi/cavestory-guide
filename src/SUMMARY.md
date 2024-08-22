@@ -21,3 +21,5 @@
 - [Hell]()
 
 ---
+
+[License](./LICENSE.md)
