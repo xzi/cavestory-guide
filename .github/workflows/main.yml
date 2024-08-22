@@ -27,12 +27,6 @@ jobs:
         with:
           owner: tommilligan
           name: mdbook-admonish
-      
-      - name: Install mermaid
-        uses: extractions/setup-crate@v1
-        with:
-          owner: badboy
-          name: mdbook-mermaid
 
       - name: Generate static content for the book
         run: mdbook build
