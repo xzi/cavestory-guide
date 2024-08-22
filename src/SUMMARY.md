@@ -7,7 +7,7 @@
 
 # The First Half
 
-- [First Cave]()
+- [First Cave](./first_cave.md)
 - [Mimiga Village]()
 - [Egg Corridor]()
 - [Bushlands/Grasstown]()
